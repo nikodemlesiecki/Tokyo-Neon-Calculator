@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   margin: 0;
-  background-image: url("assets/background.gif");
+  background-image: url("https://raw.githubusercontent.com/nikodemlesiecki/Tokyo-Neon-Calculator/main/assets/background.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
